@@ -1,0 +1,23 @@
+.blogImg {
+  width: 100%;
+  /* object-fit: contain; */
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  
+  /*  */
+}
+
+.DesktopMobile {
+  height: 175px;
+
+}
+.DesktopMobileOpen {
+  height: 400px;
+
+}
+
+@media(max-width:600px){
+  .DesktopMobileOpen {
+    height: 200px;
+  }
+}

@@ -1,0 +1,26 @@
+.comments_open_close {
+    position: sticky;
+    top: 0;
+    padding-left: 0;
+    padding-bottom: 5px;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    outline: none;
+    background-color: white;
+    cursor: pointer;
+}
+
+.comment-outer-div {
+    height: 75px;
+}
+
+.comment-inner-div {
+    height: 100%;
+    overflow: scroll;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.comment-inner-div::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,14 @@
+/* body,
+html {
+  height: 100%;
+}
+
+body {
+  background: url(images/farmer.jpg) no-repeat center fixed;
+  background-position: 0px 85px;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  margin: 0;
+} */
